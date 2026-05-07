@@ -29,3 +29,8 @@ This tool raises awareness about the importance of secure password practices. It
 
 ## ⚠️ Ethical Note
 This tool is **educational** and helps improve personal security habits. It does not store or transmit passwords.
+
+## 👨‍💻 Author
+
+**Muhammad Saif Ur Rehman Feroz**  
+[LinkedIn](https://www.linkedin.com/in/saif-ur-rehman-feroz-a79859362/)
