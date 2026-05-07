@@ -33,4 +33,4 @@ This tool is **educational** and helps improve personal security habits. It does
 ## 👨‍💻 Author
 
 **Muhammad Saif Ur Rehman Feroz**  
-[LinkedIn](https://www.linkedin.com/in/saif-ur-rehman-feroz-a79859362/)
+[LinkedIn](https://www.linkedin.com/in/saif-ur-rehman-feroz-a79859362/) 
